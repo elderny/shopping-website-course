@@ -1,0 +1,14 @@
+.cartTotal{
+    background-color: black;
+    color:white;
+    border-radius: 5px;
+}
+
+.product{
+    width: 18rem;
+}
+
+img{
+    height: 200px !important;
+    object-fit: cover;
+}

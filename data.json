@@ -1,0 +1,26 @@
+[
+    {
+    "id":"b2b67aaf-570d-4b27-8410-413805f7830b",
+    "price":250,
+    "title":"Boom shirt",
+    "image":"https://5.imimg.com/data5/AM/HT/AQ/SELLER-99788594/boom-boom-ciao-red-t-shirt-money-heist-t-shirt-hub-500x500.png"
+},
+    {
+    "id":"e7b69cef-13d1-43bb-899d-4f4247ad0a93",
+    "price":999,
+    "title":"Nike shoes",
+    "image":"https://assets.adidas.com/images/w_600,f_auto,q_auto/763aac638a2e4c68964eadfd00d75936_9366/adidas_4DFWD_x_Parley_Shoes_White_GZ8625_01_standard.jpg"
+},
+    {
+    "id":"62969ef8-bdf5-4c9d-8817-088b1c6a7f82",
+    "price":199,
+    "title":"Addidas shirt",
+    "image":"https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/17204384/2022/3/25/9343fffd-1938-41c6-b301-c6a82ab35aa31648193986677-ADIDAS-Men-Tshirts-3471648193986188-1.jpg"
+},
+    {
+    "id":"11bf54f0-ac30-4637-b59f-add8773e94eb",
+    "price":1560,
+    "title":"Cool Shoes",
+    "image":"https://i.pinimg.com/originals/1d/42/e7/1d42e7cb77ca6348779886d06e303d01.jpg"
+}
+]
